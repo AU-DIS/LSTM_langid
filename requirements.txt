@@ -1,0 +1,9 @@
+jsonlines
+pyconll
+scikit-learn
+torch
+sacred
+langid
+fasttext
+tensorboard
+tqdm
